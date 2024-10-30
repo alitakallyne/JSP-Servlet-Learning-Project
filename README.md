@@ -27,5 +27,5 @@ Este projeto foi criado para:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/JSP-Servlet-Learning-Project.git
+   git clone https://github.com/alitakallyne/JSP-Servlet-Learning-Project.git
 
